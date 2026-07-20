@@ -1,6 +1,7 @@
 # Раздел 1. Теория тестирования
 
-Конспект по разделу 1 курса Stepik «Тестирование ПО с нуля», на основе личных заметок в Obsidian.
+Конспект по разделу 1 курса Stepik «Тестирование ПО с нуля».
+Источники: [01-sdlc-stlc.pdf](01-sdlc-stlc.pdf), [02-principles-of-testing.pdf](02-principles-of-testing.pdf).
 
 ## Тестирование (Testing)
 
