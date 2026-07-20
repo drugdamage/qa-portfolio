@@ -1,7 +1,8 @@
 # Раздел 1. Теория тестирования
 
 Конспект по разделу 1 курса Stepik «Тестирование ПО с нуля».
-Источники: [01-sdlc-stlc.pdf](01-sdlc-stlc.pdf), [02-principles-of-testing.pdf](02-principles-of-testing.pdf).
+Источники: [01-sdlc-stlc.pdf](01-sdlc-stlc.pdf), [02-principles-of-testing.pdf](02-principles-of-testing.pdf),
+[03-testing-qc-qa.pdf](03-testing-qc-qa.pdf) (черновик, будет дополнен определениями QC и QA).
 
 ## Тестирование (Testing)
 
